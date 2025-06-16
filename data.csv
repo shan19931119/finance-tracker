@@ -1,0 +1,6 @@
+Date,Category,Type,Amount,Note,Bank,Paid From Bank,Purpose
+2025-06-16,Villa,Income,50000.0,Airbnb ,Commercial Bank,,
+2025-06-16,Villa,Income,0.0,,Commercial Bank,,
+2025-06-16,Personal,Income,20000.0,,Commercial Bank,,
+2025-06-16,Villa,Expense,3000.0,,,Commercial Bank,
+2025-06-16,Villa,Expense,3000.0,,,BOC,
